@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.customGridBottomSheet).setOnClickListener(this);
         //fkjakljtiewjtioeuqwijtgkadjsgklajdiojyiraekjtogkajga
         Log.d("a","dafd");
-        Log.d("d","dafgggfd");
+        Log.d("","dafgggfd");
 
 
     }
