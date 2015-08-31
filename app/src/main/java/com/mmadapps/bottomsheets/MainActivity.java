@@ -21,6 +21,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.darkGridBottomSheet).setOnClickListener(this);
         findViewById(R.id.customBottomSheet).setOnClickListener(this);
         findViewById(R.id.customGridBottomSheet).setOnClickListener(this);
+        //fkjakljtiewjtioeuqwijtgkadjsgklajdiojyiraekjtogkajga
+        Log.d("gnaga","hiiii");
     }
 
     @Override
